@@ -1,3 +1,3 @@
-#README
+# README
 
-#example.xml:a example of manifest.xml
+# example.xml:a example of manifest.xml
