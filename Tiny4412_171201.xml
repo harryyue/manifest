@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>  
 <manifest>  
 	<remote name="origin" fetch="https://github.com/harryyue/" />  
-	<default revision="master" remote="origin" />  
+	<default revision="master" remote="origin" />
+	
+	<project name="Tiny4412_Project_Scripts" path="."/>
 	<project name="uboot_2010.12-for-tiny4412" path="Uboot"/>
-  <project name="linux-3.5_tiny4412" path="Kernel"/>
-  <project name="busy-box" path="Busybox"/>  
+	<project name="linux-3.5_tiny4412" path="Kernel"/>
+	<project name="busy-box" path="Busybox"/>  
 </manifest> 
