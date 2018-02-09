@@ -3,7 +3,7 @@
 	<remote name="origin" fetch="https://github.com/harryyue/" />  
 	<default revision="master" remote="origin" />
 	
-	<project name="Tiny4412_Project_Scripts" path="."/>
+	<project name="Project_Configuration" path="."/>
 	<project name="uboot_2010.12-for-tiny4412" path="Uboot"/>
 	<project name="linux-3.5_tiny4412" path="Kernel"/>
 	<project name="busy-box" path="Busybox"/>  
